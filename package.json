@@ -51,13 +51,13 @@
     "semver": "^4.3.4"
   },
   "devDependencies": {
-    "async": "^0.9.0",
+    "async": "^0.9.2",
     "coveralls": "^2.11.2",
     "istanbul": "^0.3.13",
     "mocha": "^2.2.4",
     "mocha-jshint": "^2.2.2",
     "node-cpplint": "^0.4.0",
-    "rimraf": "^2.3.3"
+    "rimraf": "^2.3.4"
   },
   "license": "Apache 2.0",
   "engines": {
